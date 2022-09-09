@@ -1,6 +1,8 @@
 export const MineArtifact = {
     "address": {
-        5: "0xC5ae7Bf5d8aac5FaA520E58B4f1Bd13643aCCc10"
+        // 5: "0xC5ae7Bf5d8aac5FaA520E58B4f1Bd13643aCCc10"
+        1: process.env.REACT_APP_SC_MINE_ETHEREUM,
+        5: process.env.REACT_APP_SC_MINE_GOERLI
     },
     "abi": [
 		{

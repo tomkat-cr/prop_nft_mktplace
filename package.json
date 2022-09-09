@@ -29,6 +29,7 @@
   },
   "scripts": {
     "start": "react-scripts start",
+    "start:dev": "sh ./scripts/mine_start_dev.sh",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
@@ -54,6 +55,7 @@
     ]
   },
   "devDependencies": {
+    "dotenv-webpack": "^8.0.1",
     "gh-pages": "^4.0.0"
   }
 }
