@@ -1,6 +1,6 @@
 export const MineArtifact = {
     "address": {
-        5: "0xd4603d085b418758928c58b9c84013Be9655Fb4A"
+        5: "0xC5ae7Bf5d8aac5FaA520E58B4f1Bd13643aCCc10"
     },
     "abi": [
 		{
