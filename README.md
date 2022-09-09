@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Prop NFT Mkt Place
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
