@@ -1,4 +1,8 @@
 #!/bin/sh
+#
+# File: scripts/mine_start_dev.sh
+# 2022-09-08 | CR
+#
 export REACT_APP_IPFS_PROJECT_ID=2EGwJkUiWqirwBb0KU9DJcKqiE4
 export REACT_APP_IPFS_PROJECT_SECRET=486ca5c02edf0db6dabb3c811055c3f2
 export REACT_APP_IPFS_HOST=infura-ipfs.io

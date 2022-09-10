@@ -15,7 +15,7 @@ export const ipfs = ipfsClient.create({
     }
 })
 
-if (process.env.REACT_APP_DEBUG) {
+if (process.env.REACT_APP_DEBUG === '1') {
     console.log('>>--> process.env.REACT_APP_IPFS_PROJECT_ID', process.env.REACT_APP_IPFS_PROJECT_ID)
     console.log('>>--> process.env.REACT_APP_IPFS_PROJECT_SECRET', process.env.REACT_APP_IPFS_PROJECT_SECRET)
     console.log(
